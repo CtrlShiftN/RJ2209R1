@@ -2,7 +2,7 @@ import axios from 'axios'
 import { ErrorMessage, Field, Formik, Form } from 'formik'
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
-import * as Yup from 'yup'
+import * as Yup from 'yup';
 
 const UserCreate = () => {
     const [form, setForm] = useState({ name: "", birthday: "" })
