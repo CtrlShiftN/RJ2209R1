@@ -5,31 +5,36 @@
       "name": "Tommy"
     }
   ],
-  "articles": [
+  "todos": [
     {
       "id": 1,
-      "title": "Lorem ipsum dolor sit amet",
-      "user_id": 1
+      "taskname": "Use Redux 2",
+      "taskDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla dignissim egestas lectus eget convallis. Vivamus dui eros, interdum sed sollicitudin sed, porta a diam. Proin nunc velit, fermentum ac sem vel, dapibus auctor magna. Ut lorem tellus, faucibus sit amet lacinia non, suscipit id elit. Vestibulum ultricies tellus quam, quis lacinia ex mollis in. Donec sit amet nulla viverra, laoreet est vitae, placerat turpis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nullam in libero mi.",
+      "deadline": "2022-11-01"
     },
     {
       "id": 2,
-      "title": "Lorem ipsum dolor sit amet",
-      "user_id": 1
+      "taskname": "Read book",
+      "taskDesc": "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from 'de Finibus Bonorum et Malorum' by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
+      "deadline": "2023-12-17"
     },
     {
-      "id": 3,
-      "title": "Lorem ipsum dolor sit amet",
-      "user_id": 2
+      "taskname": "Use Redux 3",
+      "taskDesc": "This is a desc",
+      "deadline": "2022-11-17",
+      "id": 3
     },
     {
-      "id": 4,
-      "title": "Lorem ipsum dolor sit amet",
-      "user_id": 3
+      "taskname": "fdsfs",
+      "taskDesc": "fsdfs",
+      "deadline": "2022-11-10",
+      "id": 4
     },
     {
-      "id": 5,
-      "title": "Lorem ipsum dolor sit amet",
-      "user_id": 4
+      "taskname": "Use Redux 343242",
+      "taskDesc": "This is a desc 423423",
+      "deadline": "2022-09-28",
+      "id": 5
     }
   ]
 }

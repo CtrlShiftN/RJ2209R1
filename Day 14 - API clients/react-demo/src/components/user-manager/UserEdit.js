@@ -2,7 +2,7 @@ import axios from 'axios';
 import React, { useEffect, useState } from 'react'
 import { useLocation, useNavigate } from 'react-router-dom'
 import { ErrorMessage, Field, Formik, Form } from 'formik'
-import * as Yup from 'yup'
+import * as Yup from 'yup';
 
 
 const UserEdit = () => {
